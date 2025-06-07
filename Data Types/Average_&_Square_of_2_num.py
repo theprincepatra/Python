@@ -8,6 +8,7 @@ print("the average of these two numbers is",(a+b)/2)
 #entered numebr by a = 31
 #entered numebr by b = 49
 
+
 #find square of a two number
 
 a = int(input("enter a number: "))
