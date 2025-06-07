@@ -8,41 +8,45 @@ Welcome to **Learning Python** — your go-to repository for mastering Python fu
 
 This repository covers the building blocks of Python, explained with examples and use cases:
 
-### 🔹 1. Basic Data Types
+### 🔹 1. Basic Introduction to Python
+- Indetation, version check
+- Comment Lines, Escape Sequence, keywords
+
+### 🔹 2. Data Types
 - Integers, Floats, Strings, Booleans
 - Type Conversion & Type Checking
 
-### 🔹 2. Lists & Tuples
+### 🔹 3. Lists & Tuples
 - Indexing & Slicing
 - Built-in Methods
 - Immutability in Tuples
 
-### 🔹 3. Dictionaries & Sets
+### 🔹 4. Dictionaries & Sets
 - Key-Value Pairs
 - Common Dictionary Methods
 - Set Operations (Union, Intersection, Difference)
 
-### 🔹 4. Operators
+### 🔹 5. Operators
 - Arithmetic, Logical, Comparison
 - Assignment Operators
 - Bitwise Magic 💡
 
-### 🔹 5. Loops & Control Flow
+### 🔹 6. Loops & Control Flow
 - `for` and `while` Loops
 - `break`, `continue`, and `pass`
 - Nested Loops
 
-### 🔹 6. Functions & Recursion
+### 🔹 7. Functions & Recursion
 - Defining & Calling Functions
 - Lambda Expressions
 - Recursive Functions with Base Cases
 
-### 🔹 7. String Handling
+### 🔹 8. String Handling
 - String Methods & Formatting
 - Slicing & Concatenation
 - f-Strings and Escape Characters
 
-### 🔹 8. Object-Oriented Programming (OOP)
+### 🔹 9. Object-Oriented Programming (OOP)
 - Classes and Objects
 - Constructors & Instance Variables
 - Inheritance & Method Overriding
