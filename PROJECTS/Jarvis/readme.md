@@ -34,8 +34,3 @@ It can open websites like Google, YouTube, Instagram, etc., and even **play song
 - **webbrowser** (built-in)
 - **os** (built-in)
 - **musiclibrary.py** (custom file for song URLs)
-
----
-
-## 📂 Folder Structure
-
